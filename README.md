@@ -8,7 +8,7 @@ Import the math module to use the built-in functions for calculations
 ### Step 2:
 Enter the coordinates of point one and two in the input
 ### Step 3:
-Substitute the values in the distance formula ![formula](/formula.jpg)
+Substitute the values in the distance formula ![formula](https://github.com/Pravinrajj/DISTANCE-BETWEEN-TWO-POINTS/assets/117917674/197f5f30-a450-495f-886e-27798098e929)
 ### Step 4: 
 Print the distance using formula
 ### Step 5: 
